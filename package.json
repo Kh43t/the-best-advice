@@ -1,0 +1,1 @@
+{"description":"One sentence about the best advice I ever got, written to /output/entry.txt","license":"MIT","main":"main.ts","name":"the-best-advice","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
